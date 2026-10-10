@@ -5,17 +5,17 @@ on:
     - cron: '*/30 * * * *' # Runs every 30 minutes
   workflow_dispatch: # Allows you to trigger it manually
 
+permissions:
+  contents: write
+
 jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout target repo
-        uses: actions/checkout@v4
-      
-      - name: Sync upstream changes
-        uses: aormsby/Fork-Sync-With-Upstream@v3.4.1 # Or a similar verified Marketplace action
-        with:
-          target_sync_branch: main # Change to your default branch (e.g., master)
-          target_repo_token: ${{ secrets.GITHUB_TOKEN }}
-          upstream_repository: AmanBasu20/kolkata-puja-mcp-2026 # e.g., octocat/Spoon-Knife
-          upstream_branch: main
+      - name: Sync fork from upstream
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh repo sync ${{ github.repository }} \
+            --source AmanBasu20/kolkata-puja-mcp-2026 \
+            --branch main
