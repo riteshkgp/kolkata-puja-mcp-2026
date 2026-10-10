@@ -1,0 +1,21 @@
+name: Sync Fork
+
+on:
+  schedule:
+    - cron: '*/30 * * * *' # Runs every 30 minutes
+  workflow_dispatch: # Allows you to trigger it manually
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Sync fork from upstream
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh repo sync ${{ github.repository }} \
+            --source AmanBasu20/kolkata-puja-mcp-2026 \
+            --branch main
