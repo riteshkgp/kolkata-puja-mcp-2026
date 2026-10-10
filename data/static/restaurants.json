@@ -4,409 +4,955 @@
     "name": "Bhojohori Manna",
     "latitude": 22.5940626,
     "longitude": 88.3708345,
+    "zone": "North Kolkata",
     "opening_hours": "12:00-22:00",
+    "popular_hours": null,
     "source": "OpenStreetMap",
     "license": "ODbL",
     "cuisine": "indian",
-    "check_date": "2023-10-30"
+    "check_date": "2023-10-30",
+    "menu": [
+      "Shorshe Ilish",
+      "Kosha Mangsho",
+      "Bhetki Kalia",
+      "Mochar Ghonto",
+      "Jumbo Chingri Malaikari",
+      "Kankrajhai",
+      "Murgir Jhol",
+      "Padma Sorse",
+      "Ilish Sorse",
+      "Katla Kalia",
+      "Dab Chingri",
+      "Thali"
+    ]
   },
   {
     "id": "R002",
     "name": "MOMO PLAZA",
     "latitude": 22.539183,
     "longitude": 88.347101,
+    "zone": "South Kolkata",
     "opening_hours": "12:00-22:00",
+    "popular_hours": null,
     "source": "OpenStreetMap",
     "license": "ODbL",
     "address": "2A, Suburban Hospital Road, 700020",
-    "check_date": "2026-03-22"
+    "check_date": "2026-03-22",
+    "menu": [
+      "Pan-fried Gravy Momos",
+      "Pork Cantonese Noodles",
+      "Chicken Fried Rice",
+      "Hong Kong Chicken",
+      "Schezwan Chicken",
+      "Prawn in Hot Garlic Sauce",
+      "Vegetable Chinese Chopsuey",
+      "Sweet and Sour Vegetables"
+    ]
   },
   {
     "id": "R003",
     "name": "Arsalan",
     "latitude": 22.5438718,
     "longitude": 88.3659522,
+    "zone": "South Kolkata",
     "opening_hours": "Mo-Su 10:30-24:00",
+    "popular_hours": "Sun ~22:00",
     "source": "OpenStreetMap",
     "license": "ODbL",
     "cuisine": "regional",
-    "check_date": "2023-12-16"
+    "check_date": "2023-12-16",
+    "menu": [
+      "Chicken Biryani",
+      "Mutton Biryani",
+      "Vegetable Biryani",
+      "Egg Biryani",
+      "Chicken Tikka Kebab",
+      "Chicken Reshmi Kebab",
+      "Fish Arsalan Kebab",
+      "Mutton Seekh Kebab",
+      "Tandoori Chicken",
+      "Chicken Roll",
+      "Mutton Roll",
+      "Egg Roll",
+      "Mutton Curry",
+      "Chicken Rezala",
+      "Mutton Rezala"
+    ]
   },
   {
     "id": "R004",
     "name": "Mission Vegetarian Cafe",
     "latitude": 22.5154121,
     "longitude": 88.3680977,
+    "zone": "South Kolkata",
     "opening_hours": "Mo-Su 09:00-21:00",
+    "popular_hours": null,
     "source": "OpenStreetMap",
     "license": "ODbL",
     "address": "Raja Subosh Chandra Mallik Road",
-    "check_date": "2023-12-16"
+    "check_date": "2023-12-16",
+    "menu": null
   },
   {
     "id": "R005",
     "name": "New Arafat Restaurant & Caterer",
     "latitude": 22.5563102,
     "longitude": 88.3572939,
+    "zone": "Central Kolkata",
     "opening_hours": "Mo-Su 06:00-12:00",
+    "popular_hours": null,
     "source": "OpenStreetMap",
     "license": "ODbL",
     "address": "75B, Rafi Ahmad Kidwai Road, 700016",
-    "cuisine": "fish;breakfast;asian;beef_bowl;diner;kebab;indian;curry"
+    "cuisine": "fish;breakfast;asian;beef_bowl;diner;kebab;indian;curry",
+    "menu": null
   },
   {
     "id": "R006",
     "name": "The Accord",
     "latitude": 22.5529317,
     "longitude": 88.3542465,
+    "zone": "Central Kolkata",
     "opening_hours": "07:30-22:30",
+    "popular_hours": null,
     "source": "OpenStreetMap",
     "license": "ODbL",
     "address": "4, Royd Street, 700016",
-    "check_date": "2023-10-28"
+    "check_date": "2023-10-28",
+    "menu": null
   },
   {
     "id": "R007",
     "name": "Govinda's",
     "latitude": 22.5437593,
     "longitude": 88.3536486,
+    "zone": "South Kolkata",
     "opening_hours": "Mo-Su 09:00-22:00",
+    "popular_hours": null,
     "source": "OpenStreetMap",
     "license": "ODbL",
     "address": "3C, Albert Road",
-    "cuisine": "indian"
+    "cuisine": "indian",
+    "menu": [
+      "Indian Thali",
+      "Kabuli Naan",
+      "Amritsari Kulcha",
+      "Pepper Cheese Kulcha",
+      "Paneer Nawabdaar",
+      "Paneer Chatpata",
+      "Lahori Aloo Jeera",
+      "Cheese Malai Kofta",
+      "Makai Veg Jhal Fry",
+      "Mysore Masala Dosa",
+      "Rawa Masala Dosa",
+      "Sundae"
+    ]
   },
   {
     "id": "R008",
     "name": "PANNA SWEETS",
     "latitude": 22.499211,
     "longitude": 88.3170796,
+    "zone": "South Kolkata",
     "opening_hours": "Mo-Su 09:00-22:00",
+    "popular_hours": null,
     "source": "OpenStreetMap",
     "license": "ODbL",
-    "address": "Brahmo Samaj Road, 700034"
+    "address": "Brahmo Samaj Road, 700034",
+    "menu": [
+      "Mishti Doi",
+      "Dahi Wada",
+      "Veg Cutlet",
+      "Samosa",
+      "Burger",
+      "Fish Fingers",
+      "Hot Dog"
+    ]
   },
   {
     "id": "R009",
     "name": "Momo i am",
     "latitude": 22.5904744,
     "longitude": 88.4082609,
+    "zone": "East Kolkata",
     "opening_hours": "Mo-Su 12:00-23:00",
+    "popular_hours": null,
     "source": "OpenStreetMap",
     "license": "ODbL",
     "address": "CD18, 2nd Cross Road, 700064",
-    "cuisine": "asian;chinese"
+    "cuisine": "asian;chinese",
+    "menu": [
+      "Nepalese Jhol Momo",
+      "Bhutanese Pan-fried Datshi Momo",
+      "Stir-fried Noodles"
+    ]
   },
   {
     "id": "R010",
     "name": "India Restaurant",
     "latitude": 22.5388442,
     "longitude": 88.3222081,
+    "zone": "South Kolkata",
     "opening_hours": "Mo-Su 09:00-22:00",
+    "popular_hours": null,
     "source": "OpenStreetMap",
     "license": "ODbL",
     "address": "34, Karl Marx Sarani, 700023",
-    "cuisine": "mughlai;indian;chinese"
+    "cuisine": "mughlai;indian;chinese",
+    "menu": null
   },
   {
     "id": "R011",
     "name": "Koshe Kosha",
     "latitude": 22.5537095,
     "longitude": 88.3544382,
+    "zone": "Central Kolkata",
     "opening_hours": "11:00-23:00",
+    "popular_hours": null,
     "source": "OpenStreetMap",
     "license": "ODbL",
     "address": "1/1C, Ripon Street, 700016",
     "cuisine": "bengali",
-    "check_date": "2023-10-28"
+    "check_date": "2023-10-28",
+    "menu": [
+      "Bengali buffet (veg and non-veg)",
+      "Vegetarian thali",
+      "Non-vegetarian thali",
+      "Chicken dishes",
+      "Mutton dishes"
+    ]
   },
   {
     "id": "R012",
     "name": "MamaGoto",
     "latitude": 22.5517162,
     "longitude": 88.3535019,
+    "zone": "Central Kolkata",
     "opening_hours": "Mo-Su 12:00-23:30",
+    "popular_hours": null,
     "source": "OpenStreetMap",
-    "license": "ODbL"
+    "license": "ODbL",
+    "menu": null
   },
   {
     "id": "R013",
     "name": "Bojangles",
     "latitude": 22.5255315,
     "longitude": 88.3575909,
+    "zone": "South Kolkata",
     "opening_hours": "Mo-Su 11:00-23:00",
+    "popular_hours": null,
     "source": "OpenStreetMap",
-    "license": "ODbL"
+    "license": "ODbL",
+    "menu": null
   },
   {
     "id": "R014",
     "name": "Krazee Kulcha",
     "latitude": 22.5844866,
     "longitude": 88.3909972,
+    "zone": "Central Kolkata",
     "opening_hours": "Mo-Su 12:00-23:00",
+    "popular_hours": null,
     "source": "OpenStreetMap",
     "license": "ODbL",
-    "address": "p8, CIT Road, 700054"
+    "address": "p8, CIT Road, 700054",
+    "menu": null
   },
   {
     "id": "R015",
     "name": "Honey da dhaba",
     "latitude": 22.5849596,
     "longitude": 88.3916315,
+    "zone": "Central Kolkata",
     "opening_hours": "Mo-Su 12:00-22:00",
+    "popular_hours": null,
     "source": "OpenStreetMap",
     "license": "ODbL",
-    "address": "p-54, CIT Road, 700054"
+    "address": "p-54, CIT Road, 700054",
+    "menu": null
   },
   {
     "id": "R016",
     "name": "Balle Balle Dhaba",
     "latitude": 22.58956,
     "longitude": 88.4084577,
+    "zone": "East Kolkata",
     "opening_hours": "Mo-Su 12:00-02:00",
+    "popular_hours": null,
     "source": "OpenStreetMap",
     "license": "ODbL",
-    "address": "DC 27/26, 2nd Cross Road, 700064"
+    "address": "DC 27/26, 2nd Cross Road, 700064",
+    "menu": null
   },
   {
     "id": "R017",
     "name": "Sabir's hotel",
     "latitude": 22.5668511,
     "longitude": 88.3560252,
+    "zone": "Central Kolkata",
     "opening_hours": "Mo-Su 09:00-23:00",
+    "popular_hours": null,
     "source": "OpenStreetMap",
     "license": "ODbL",
     "address": "3,5, Chandi Chowk Street, 700072",
-    "check_date": "2026-03-22"
+    "check_date": "2026-03-22",
+    "menu": [
+      "Mutton Rezala",
+      "Mutton Biryani",
+      "Chicken Biryani",
+      "Biryani Aloo",
+      "Chicken Bharta",
+      "Mutton Chaap",
+      "Chicken Chaap",
+      "Tandoori Chicken",
+      "Chicken Tikka",
+      "Butter Naan",
+      "Laccha Paratha",
+      "Tandoori Roti",
+      "Shahi Tukra",
+      "Firni"
+    ]
   },
   {
     "id": "R018",
     "name": "Aminia Restaurant",
     "latitude": 22.5988571,
     "longitude": 88.3726721,
+    "zone": "North Kolkata",
     "opening_hours": "Mo-Su 11:30-23:30",
+    "popular_hours": null,
     "source": "OpenStreetMap",
     "license": "ODbL",
     "address": "94, Bidhan Sarani, 700004",
     "cuisine": "indian;kebab",
-    "check_date": "2023-09-30"
+    "check_date": "2023-09-30",
+    "menu": [
+      "Kolkata Biryani",
+      "Zafrani Biryani",
+      "Chicken Chaap",
+      "Aminia Special Mutton Curry",
+      "Mutton Rezala",
+      "Mutton Pasanda",
+      "Lahori Chicken",
+      "Reshmi Kebab",
+      "Firni",
+      "Gajar ka Halwa"
+    ]
   },
   {
     "id": "R019",
     "name": "The Bengal Rowing Club (BRC)",
     "latitude": 22.5095539,
     "longitude": 88.3547893,
+    "zone": "South Kolkata",
     "opening_hours": "Tu-Su 06:00-22:30",
+    "popular_hours": null,
     "source": "OpenStreetMap",
     "license": "ODbL",
-    "address": "13/2, Baroj Road, 700029"
+    "address": "13/2, Baroj Road, 700029",
+    "menu": null
   },
   {
     "id": "R020",
     "name": "Prema Vilas",
     "latitude": 22.5172125,
     "longitude": 88.3488896,
+    "zone": "South Kolkata",
     "opening_hours": "Mo-Su 08:00-21:30",
+    "popular_hours": null,
     "source": "OpenStreetMap",
     "license": "ODbL",
-    "address": "63/1, Rash Behari Avenue, 700026"
+    "address": "63/1, Rash Behari Avenue, 700026",
+    "menu": [
+      "Filter Coffee",
+      "Dancing Coffee",
+      "Paneer Pakora",
+      "Dosa",
+      "Uttapam",
+      "South Indian Thali"
+    ]
   },
   {
     "id": "R021",
     "name": "Benfish",
     "latitude": 22.6072347,
     "longitude": 88.3828559,
+    "zone": "North Kolkata",
     "opening_hours": "Mo-Su 03:00-10:30",
+    "popular_hours": null,
     "source": "OpenStreetMap",
     "license": "ODbL",
     "address": "Tala Park Path, 700037",
-    "cuisine": "chinese;indian"
+    "cuisine": "chinese;indian",
+    "menu": null
   },
   {
     "id": "R022",
     "name": "MOMO HUT",
     "latitude": 22.6076765,
     "longitude": 88.3839103,
+    "zone": "North Kolkata",
     "opening_hours": "Mo-Su 05:30-10:00",
+    "popular_hours": null,
     "source": "OpenStreetMap",
     "license": "ODbL",
     "address": "Tara Sankar Sarani, 700037",
-    "cuisine": "chinese"
+    "cuisine": "chinese",
+    "menu": null
   },
   {
     "id": "R023",
     "name": "THE DELHI DURBAR RESTAURANT",
     "latitude": 22.5948737,
     "longitude": 88.3414617,
+    "zone": "Outside Kolkata",
     "opening_hours": "Mo-Su 11:30-23:30",
+    "popular_hours": null,
     "source": "OpenStreetMap",
     "license": "ODbL",
     "address": "51, Bijoy Kumar Mukherjee Road, 711106",
-    "cuisine": "indian"
+    "cuisine": "indian",
+    "menu": null
   },
   {
     "id": "R024",
     "name": "Shamshiji Restaurant & Caterer",
     "latitude": 22.5415255,
     "longitude": 88.3856896,
+    "zone": "South Kolkata",
     "opening_hours": "Mo-Su 10:00-22:00",
+    "popular_hours": null,
     "source": "OpenStreetMap",
     "license": "ODbL",
     "address": "83/1, Topsia Road (south), 700046",
-    "cuisine": "indian;mughlai;regional;curry;sandwich;kebab;biryani"
+    "cuisine": "indian;mughlai;regional;curry;sandwich;kebab;biryani",
+    "menu": null
   },
   {
     "id": "R025",
     "name": "idlyGo Xpress",
     "latitude": 22.5917067,
     "longitude": 88.3922961,
+    "zone": "North Kolkata",
     "opening_hours": "Mo-Su 09:00-22:00",
+    "popular_hours": null,
     "source": "OpenStreetMap",
     "license": "ODbL",
     "address": "164, CIT Road, 700054",
-    "cuisine": "indian"
+    "cuisine": "indian",
+    "menu": null
   },
   {
     "id": "R026",
     "name": "Chai Break - Foreshoreroad",
     "latitude": 22.5638704,
     "longitude": 88.3269969,
+    "zone": "Outside Kolkata",
     "opening_hours": "Mo-Su 10:00-22:00",
+    "popular_hours": null,
     "source": "OpenStreetMap",
     "license": "ODbL",
     "address": "99, Foreshore Road, 1A, 711102",
-    "cuisine": "pizza;coffee_shop;burger;italian;sandwich;mexican;indian;thai;american;dessert"
+    "cuisine": "pizza;coffee_shop;burger;italian;sandwich;mexican;indian;thai;american;dessert",
+    "menu": null
   },
   {
     "id": "R027",
     "name": "Bamboo (Modern Asian Cuisine)",
     "latitude": 22.5443742,
     "longitude": 88.3810137,
+    "zone": "South Kolkata",
     "opening_hours": "Mo-Su 12:00-23:00",
+    "popular_hours": null,
     "source": "OpenStreetMap",
     "license": "ODbL",
     "address": "27A/1, Mahendra Roy Lane, 700046",
-    "cuisine": "asian"
+    "cuisine": "asian",
+    "menu": null
   },
   {
     "id": "R028",
     "name": "Trincas",
     "latitude": 22.5541391,
     "longitude": 88.3515875,
+    "zone": "Central Kolkata",
     "opening_hours": "Mo-Su,PH 11:30-23:30",
+    "popular_hours": null,
     "source": "OpenStreetMap",
     "license": "ODbL",
-    "address": "17, Park Street, 700016"
+    "address": "17, Park Street, 700016",
+    "menu": [
+      "Chicken à la Kiev",
+      "Chilli Garlic Noodles",
+      "Lamb in Hot Garlic Sauce",
+      "Drums of Heaven",
+      "Lobster Thermidor",
+      "Deviled Crab",
+      "Shepherd's Pie",
+      "Panko Crusted Prawns",
+      "Spicy Roast Pork",
+      "Chicken Tetrazzini",
+      "Bhetki Florentine",
+      "Apple Pie with Vanilla Ice Cream"
+    ]
   },
   {
     "id": "R029",
     "name": "Darao, Pothik-Bor",
     "latitude": 22.6201602,
     "longitude": 88.3956197,
+    "zone": "North Kolkata",
     "opening_hours": "Mo-Su 11:30-23:30",
+    "popular_hours": null,
     "source": "OpenStreetMap",
-    "license": "ODbL"
+    "license": "ODbL",
+    "menu": null
   },
   {
     "id": "R030",
     "name": "Flame And Grill",
     "latitude": 22.5014304,
     "longitude": 88.3610539,
+    "zone": "South Kolkata",
     "opening_hours": "Mo-Su 12:30-23:00",
+    "popular_hours": null,
     "source": "OpenStreetMap",
     "license": "ODbL",
     "address": "375, Prince Anwar Shah Road, 700068",
-    "cuisine": "indian"
+    "cuisine": "indian",
+    "menu": null
   },
   {
     "id": "R031",
     "name": "Riyasat",
     "latitude": 22.5013968,
     "longitude": 88.3611232,
+    "zone": "South Kolkata",
     "opening_hours": "Mo-Fri 13:00-15:30",
+    "popular_hours": null,
     "source": "OpenStreetMap",
     "license": "ODbL",
     "address": "375, Prince Anwar Shah Road, 700068",
-    "cuisine": "indian"
+    "cuisine": "indian",
+    "menu": null
   },
   {
     "id": "R032",
     "name": "OG By The Lake",
     "latitude": 22.5392366,
     "longitude": 88.3928999,
+    "zone": "South Kolkata",
     "opening_hours": "Mo-Fri 12:00-23:30",
+    "popular_hours": null,
     "source": "OpenStreetMap",
     "license": "ODbL",
     "address": "11A, E Topsia Road, 700046",
     "cuisine": "chinese;indian;italian;sushi;thai",
-    "check_date": "2026-08-27"
+    "check_date": "2026-08-27",
+    "menu": null
   },
   {
     "id": "R033",
     "name": "Ilish",
     "latitude": 22.5501731,
     "longitude": 88.3552148,
+    "zone": "Central Kolkata",
     "opening_hours": "12:00-23:00",
+    "popular_hours": null,
     "source": "OpenStreetMap",
     "license": "ODbL",
     "address": "83B, Park Street, 700016",
-    "cuisine": "indian;bengali"
+    "cuisine": "indian;bengali",
+    "menu": [
+      "Ilish Biryani",
+      "Daab Ilish",
+      "Ilish Bhapa",
+      "Golda Maharaj Cutlet",
+      "Sobuj Dwiper Kankra",
+      "Pantha Beguner Modhu Chandrima"
+    ]
   },
   {
     "id": "R034",
     "name": "Punjabee Rasoi",
     "latitude": 22.5158957,
     "longitude": 88.392403,
+    "zone": "South Kolkata",
     "opening_hours": "Tu-Su 11:00-22:30",
+    "popular_hours": null,
     "source": "OpenStreetMap",
     "license": "ODbL",
     "address": "196",
     "cuisine": "indian",
-    "check_date": "2026-08-26"
+    "check_date": "2026-08-26",
+    "menu": [
+      "Adrak Ke Panje",
+      "Dal Makhni"
+    ]
   },
   {
     "id": "R035",
     "name": "Pow Hing express",
     "latitude": 22.5683231,
     "longitude": 88.3566461,
+    "zone": "Central Kolkata",
     "opening_hours": "Mo-Su 12:30-23:00",
+    "popular_hours": null,
     "source": "OpenStreetMap",
     "license": "ODbL",
     "address": "35, Chittaranjan Avenue, 700012",
     "cuisine": "chinese",
-    "check_date": "2026-03-22"
+    "check_date": "2026-03-22",
+    "menu": null
   },
   {
     "id": "R036",
     "name": "la komida",
     "latitude": 22.503656,
     "longitude": 88.3751702,
+    "zone": "South Kolkata",
     "opening_hours": "Mo-Su 10:00-22:00",
+    "popular_hours": null,
     "source": "OpenStreetMap",
     "license": "ODbL",
     "address": "700031",
-    "cuisine": "chinese;kebab;noodle;barbecue"
+    "cuisine": "chinese;kebab;noodle;barbecue",
+    "menu": null
   },
   {
     "id": "R037",
     "name": "Little Beijing",
     "latitude": 22.4913923,
     "longitude": 88.3652049,
+    "zone": "South Kolkata",
     "opening_hours": "Mo-Su 13:00-23:00",
+    "popular_hours": null,
     "source": "OpenStreetMap",
     "license": "ODbL",
     "address": "74/1/36, Raipur Road, 700032",
-    "check_date": "2026-08-23"
+    "check_date": "2026-08-23",
+    "menu": null
   },
   {
     "id": "R038",
     "name": "Byepass Dhaba",
     "latitude": 22.5527076,
     "longitude": 88.4059676,
+    "zone": "Central Kolkata",
     "opening_hours": "Mo-Su 12:00-1:00",
+    "popular_hours": "Sun ~21:00",
     "source": "OpenStreetMap",
     "license": "ODbL",
     "address": "1A, Bangaon - Kulpi Rd, 700105",
-    "cuisine": "indian"
+    "cuisine": "indian",
+    "menu": [
+      "Sufyana Kebab",
+      "Biryani",
+      "Naan",
+      "Kulcha",
+      "Mahi Tikka Lababdar",
+      "Rarha Mutton",
+      "Egg Tarka"
+    ]
+  },
+  {
+    "id": "R039",
+    "name": "Peter Cat",
+    "latitude": 22.5537,
+    "longitude": 88.3518,
+    "zone": "Central Kolkata",
+    "popular_hours": "Sat ~20:00",
+    "source": "Web search (address from public listings; coordinates approximate, not from OpenStreetMap)",
+    "address": "18A, Park Street, 700071",
+    "cuisine": "mughlai;continental",
+    "menu": [
+      "Chelo Kebab",
+      "Prawn Cocktail",
+      "Harem's Joy",
+      "Liver Fry",
+      "Sizzlers",
+      "Persian Pulao",
+      "Bhetki Meunière"
+    ]
+  },
+  {
+    "id": "R040",
+    "name": "Flurys",
+    "latitude": 22.5539,
+    "longitude": 88.3516,
+    "zone": "Central Kolkata",
+    "popular_hours": "Sun ~20:00",
+    "source": "Web search (address from public listings; coordinates approximate, not from OpenStreetMap)",
+    "address": "18, Park Street, 700016",
+    "cuisine": "continental;bakery",
+    "menu": [
+      "English Breakfast",
+      "Cinnamon Rolls",
+      "Rum Ball",
+      "Christmas Dry Cakes",
+      "Darjeeling Tea with Cucumber Sandwiches",
+      "Pastries"
+    ]
+  },
+  {
+    "id": "R041",
+    "name": "Mocambo",
+    "latitude": 22.5535,
+    "longitude": 88.3524,
+    "zone": "Central Kolkata",
+    "popular_hours": "Sat ~21:00",
+    "source": "Web search (address from public listings; coordinates approximate, not from OpenStreetMap)",
+    "address": "25B, Park Street, 700016",
+    "cuisine": "continental",
+    "menu": [
+      "Devilled Crab",
+      "Crab Cakes",
+      "Prawn Cocktail",
+      "Chicken à la Kiev",
+      "Chicken Tetrazzini",
+      "Chicken Cordon Bleu",
+      "Chicken Sicilian",
+      "Chicken Stroganoff",
+      "Fish à la Diane",
+      "Chateaubriand Beef Steak",
+      "Ham Steak",
+      "Cannelloni",
+      "Baked Alaska"
+    ]
+  },
+  {
+    "id": "R042",
+    "name": "Shiraz Golden Restaurant",
+    "latitude": 22.5518,
+    "longitude": 88.3538,
+    "zone": "Central Kolkata",
+    "popular_hours": null,
+    "source": "Web search (address from public listings; coordinates approximate, not from OpenStreetMap)",
+    "address": "56, Park Street, 700016",
+    "cuisine": "mughlai;kebab;biryani",
+    "menu": [
+      "Mutton Biryani",
+      "Chicken Chaap Biryani",
+      "Mutton Kassa",
+      "Murgh Mussallam",
+      "Mutton Dal Gosht",
+      "Mutton Stew",
+      "Keema Kaleji",
+      "Kebabs",
+      "Kathi Rolls"
+    ]
+  },
+  {
+    "id": "R043",
+    "name": "Bar-B-Q",
+    "latitude": 22.5525,
+    "longitude": 88.3532,
+    "zone": "Central Kolkata",
+    "popular_hours": null,
+    "source": "Web search (address from public listings; coordinates approximate, not from OpenStreetMap)",
+    "address": "43, Park Street, 700016",
+    "menu": [
+      "Kung Pao Chicken",
+      "Drums of Heaven",
+      "Double Fried Pork",
+      "Golden Fried Prawns",
+      "BBQ Chicken",
+      "Pan Fried Noodles",
+      "Chilli Pork"
+    ]
+  },
+  {
+    "id": "R044",
+    "name": "Kusum Rolls",
+    "latitude": 22.5538,
+    "longitude": 88.352,
+    "zone": "Central Kolkata",
+    "popular_hours": null,
+    "source": "Web search (address from public listings; coordinates approximate, not from OpenStreetMap)",
+    "address": "21, Park Street, 700016",
+    "cuisine": "rolls;street_food",
+    "menu": [
+      "Egg Roll",
+      "Double-Egg Mutton Roll",
+      "Chicken Tikka Roll"
+    ]
+  },
+  {
+    "id": "R045",
+    "name": "Mainland China",
+    "latitude": 22.5276,
+    "longitude": 88.3662,
+    "zone": "South Kolkata",
+    "popular_hours": null,
+    "source": "Web search (address from public listings; coordinates approximate, not from OpenStreetMap)",
+    "address": "Uniworth House, 3A, Gurusaday Road, 700019",
+    "cuisine": "chinese;asian",
+    "menu": [
+      "Samurai Roll Sushi",
+      "Prawn Cheung Fun",
+      "Crispy Chicken Cheng Fun",
+      "Japanese Noodles",
+      "Malayan Spiced Melon"
+    ]
+  },
+  {
+    "id": "R046",
+    "name": "Indian Coffee House",
+    "latitude": 22.5755,
+    "longitude": 88.3638,
+    "zone": "Central Kolkata",
+    "popular_hours": null,
+    "source": "Web search (address from public listings; coordinates approximate, not from OpenStreetMap)",
+    "address": "15, Bankim Chatterjee Street, College Street, 700073",
+    "cuisine": "coffee_shop;snacks",
+    "menu": [
+      "Coffee"
+    ]
+  },
+  {
+    "id": "R047",
+    "name": "Golden Joy Restaurant",
+    "latitude": 22.5435,
+    "longitude": 88.3925,
+    "zone": "South Kolkata",
+    "popular_hours": "Sun ~21:00",
+    "source": "Web search (address from public listings; coordinates approximate, not from OpenStreetMap)",
+    "address": "50, Matheswartala Road, Topsia, 700046",
+    "cuisine": "chinese",
+    "menu": [
+      "Thick Thai Soup",
+      "Hakka Chow",
+      "Chicken Chilli Garlic Noodles",
+      "Prawns Hakka Chow",
+      "Chicken Fried Rice",
+      "Chilli Prawns",
+      "Prawns Manchurian",
+      "Garlic Prawns",
+      "Fried Meefoon"
+    ]
+  },
+  {
+    "id": "R048",
+    "name": "Big Boss Restaurant",
+    "latitude": 22.553,
+    "longitude": 88.3985,
+    "zone": "Central Kolkata",
+    "popular_hours": "Sun ~21:00",
+    "source": "Web search (address from public listings; coordinates approximate, not from OpenStreetMap)",
+    "address": "54C, Matheswartala Road, Tangra, 700046",
+    "cuisine": "chinese",
+    "menu": null
+  },
+  {
+    "id": "R049",
+    "name": "Golbari",
+    "latitude": 22.6015,
+    "longitude": 88.3735,
+    "zone": "North Kolkata",
+    "popular_hours": "Sat ~20:00",
+    "source": "Web search (address from public listings; coordinates approximate, not from OpenStreetMap)",
+    "address": "Acharya Prafulla Chandra Road, Shyambazar, 700004",
+    "cuisine": "indian;mughlai",
+    "menu": [
+      "Mutton Kosha",
+      "Mutton Cutlet",
+      "Fish Chop"
+    ]
+  },
+  {
+    "id": "R050",
+    "name": "Arsalan (Shyambazar)",
+    "latitude": 22.6005,
+    "longitude": 88.3735,
+    "zone": "North Kolkata",
+    "popular_hours": "Sun ~20:00",
+    "source": "Web search (address from public listings; coordinates approximate, not from OpenStreetMap)",
+    "address": "138, Bidhan Sarani, Hatibagan, 700004",
+    "cuisine": "biryani;mughlai;kebab",
+    "menu": [
+      "Chicken Biryani",
+      "Mutton Biryani",
+      "Vegetable Biryani",
+      "Egg Biryani",
+      "Chicken Tikka Kebab",
+      "Chicken Reshmi Kebab",
+      "Fish Arsalan Kebab",
+      "Mutton Seekh Kebab",
+      "Tandoori Chicken",
+      "Chicken Roll",
+      "Mutton Roll",
+      "Egg Roll",
+      "Mutton Curry",
+      "Chicken Rezala",
+      "Mutton Rezala"
+    ]
+  },
+  {
+    "id": "R051",
+    "name": "Oudh 1590 (Salt Lake)",
+    "latitude": 22.589,
+    "longitude": 88.4085,
+    "zone": "East Kolkata",
+    "popular_hours": "Sun ~21:00; Sun ~15:00",
+    "source": "Web search (address from public listings; coordinates approximate, not from OpenStreetMap)",
+    "address": "Plot 86, 2nd Avenue, CD Block, Sector 1, Bidhannagar, 700064",
+    "cuisine": "indian;awadhi",
+    "menu": [
+      "Gosht Galawati Kebab",
+      "Mahi Zafrani Kebab",
+      "Mutton Galouti Kebab",
+      "Awadhi Mutton Handi Biryani",
+      "Raan Biryani",
+      "Lucknowi Paratha"
+    ]
+  },
+  {
+    "id": "R052",
+    "name": "Oudh 1590 (Deshapriya Park)",
+    "latitude": 22.515,
+    "longitude": 88.351,
+    "zone": "South Kolkata",
+    "popular_hours": "Sun ~20:00; Sat ~15:00",
+    "source": "Web search (address from public listings; coordinates approximate, not from OpenStreetMap)",
+    "address": "Deshapriya Park West, Manoharpukur, 700026",
+    "cuisine": "indian;awadhi",
+    "menu": [
+      "Gosht Galawati Kebab",
+      "Mahi Zafrani Kebab",
+      "Mutton Galouti Kebab",
+      "Awadhi Mutton Handi Biryani",
+      "Raan Biryani",
+      "Lucknowi Paratha"
+    ]
+  },
+  {
+    "id": "R053",
+    "name": "Balwant Singh Dhaba",
+    "latitude": 22.5315,
+    "longitude": 88.3475,
+    "zone": "South Kolkata",
+    "popular_hours": "Sun ~21:00",
+    "source": "Web search (address from public listings; coordinates approximate, not from OpenStreetMap)",
+    "address": "10B, Harish Mukherjee Road, Bhowanipore, 700025",
+    "cuisine": "indian;punjabi",
+    "menu": [
+      "Evening snacks",
+      "Doodh Cola"
+    ]
+  },
+  {
+    "id": "R054",
+    "name": "Dada Boudi Hotel",
+    "latitude": 22.765,
+    "longitude": 88.37,
+    "zone": "Outside Kolkata",
+    "popular_hours": "Sun ~19:00",
+    "source": "Web search (address from public listings; coordinates approximate, not from OpenStreetMap)",
+    "address": "1, Ghoshpara Road, Barrackpore, 700120",
+    "cuisine": "bengali",
+    "menu": [
+      "Biryani"
+    ]
   }
 ]
