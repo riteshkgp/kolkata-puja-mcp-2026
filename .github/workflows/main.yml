@@ -1,21 +1,52 @@
-name: Sync Fork
+name: Sync directory from source repo
 
 on:
   schedule:
-    - cron: '*/30 * * * *' # Runs every 30 minutes
-  workflow_dispatch: # Allows you to trigger it manually
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
 
 permissions:
   contents: write
+
+env:
+  SOURCE_REPO: AmanBasu20/kolkata-puja-mcp-server   # owner/name of the source repo
+  SOURCE_BRANCH: main
+  SOURCE_DIR: data/dynamic                 # directory in the source repo
+  TARGET_DIR: data/dynamic         # directory in this (target) repo
 
 jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      - name: Sync fork from upstream
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Checkout target repo (this repo)
+        uses: actions/checkout@v4
+        with:
+          path: target
+
+      - name: Checkout source repo
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ env.SOURCE_REPO }}
+          ref: ${{ env.SOURCE_BRANCH }}
+          # Only needed if the source repo is private; remove for public repos.
+          # token: ${{ secrets.SOURCE_REPO_TOKEN }}
+          path: source
+
+      - name: Copy directory
         run: |
-          gh repo sync ${{ github.repository }} \
-            --source AmanBasu20/kolkata-puja-mcp-server \
-            --branch main
+          mkdir -p "target/${TARGET_DIR}"
+          rsync -a --delete --exclude='.git' \
+            "source/${SOURCE_DIR}/" "target/${TARGET_DIR}/"
+
+      - name: Commit and push
+        working-directory: target
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A "${TARGET_DIR}"
+          if git diff --cached --quiet; then
+            echo "No changes to sync."
+            exit 0
+          fi
+          git commit -m "Sync ${SOURCE_DIR} from ${SOURCE_REPO}"
+          git push
